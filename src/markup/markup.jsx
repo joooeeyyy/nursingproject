@@ -34,6 +34,7 @@ class Markup extends Component {
           <Routes>
             <Route element={<ThemeLayout />}>
               <Route path="/" element={<Index />} />
+              <Route path="/nursingproject" element={<Index />} />
               <Route path="/about-us" element={<AboutUs />} />
               <Route path="/team" element={<Team />} />
               <Route path="/services" element={<Services />} />
