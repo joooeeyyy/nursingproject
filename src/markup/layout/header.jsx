@@ -196,9 +196,7 @@ const Header = () => {
               id="menuDropdown"
             >
               <div className="menu-logo">
-                <Link to="/">
-                  <img src={logoWhite} alt="" />
-                </Link>
+                <Link to="/"></Link>
               </div>
 
               <ul className="nav navbar-nav">
