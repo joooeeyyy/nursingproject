@@ -197,17 +197,7 @@ class aboutSection extends Component {
             <div className="footer-bottom">
               <div className="row">
                 <div className="col-12 text-center">
-                  <p className="copyright-text">
-                    Copyright © 2023 Design & Developed by{" "}
-                    <a
-                      href="https://themeforest.net/user/themetrades"
-                      rel="noreferrer"
-                      target="_blank"
-                      className="text-secondary"
-                    >
-                      ThemeTrades
-                    </a>
-                  </p>
+                  <p className="copyright-text">Copyright © 2023 Design</p>
                 </div>
               </div>
             </div>
